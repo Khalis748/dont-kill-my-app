@@ -13,7 +13,7 @@ _Phone settings > Battery & power saving > Battery usage > Ignore optimizations 
 - on newer devices:<br>
 _Settings > Apps > Your app > Battery > Optimize battery usage > All (from the top) > Your app_ (toggle to disable).
 
-### Android 8+
+### Android 11
 
 Check if **Phone settings > Apps & Notifications > Your app > Background restrictions** or **Background limits** are not enabled for the app.
 
